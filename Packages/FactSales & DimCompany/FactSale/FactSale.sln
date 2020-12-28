@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "FactSale", "FactSale\FactSale.dtproj", "{8FFCB706-F808-45C9-8CDE-AF14B1A216F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FFCB706-F808-45C9-8CDE-AF14B1A216F2}.Development|Default.ActiveCfg = Development
+		{8FFCB706-F808-45C9-8CDE-AF14B1A216F2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC989FB0-71F4-4EA4-B764-4F0E603DF1C1}
+	EndGlobalSection
+EndGlobal
